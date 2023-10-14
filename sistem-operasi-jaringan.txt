@@ -1,0 +1,50 @@
+
+
+Operating system (OS) atau sistem operasi adalah sistem yang terdiri dari berbagai 
+komponen kerja yang digunakan untuk memanfaatkan suatu mesin. Pada dasarnya, setiap 
+mesin pasti memiliki sistem untuk mengoperasikannya. suatu penghubung antara pengguna 
+mesin dengan perangkat yang dimiliki oleh mesin tersebut. Di mana, mesin berfungsi 
+untuk melakukan sesuatu atau sebagai alat bantu dalam menghasilkan sesuatu. Sistem 
+operasi terbagi menjadi 2, yaitu sistem operasi desktop dan sistem operasi jaringan
+
+
+# Tujuan Sistem Operasi
+- Melakukan Efisiensi
+- Memberikan Kemudahan
+
+
+# Fungsi Sistem Operasi
+Melakukan booting: mengelola sistem operasi perangkat
+Manajemen proses: Melakukan sistem operasi mengalokasikan ruang untuk mengaktifkan proses komputer, menyimpan dan berbagi informasi
+Loading and execution: sistem operasi akan memulai dan menjalankan suatu program.
+Manajemen memori: Sistem operasi berfungsi mengoordinasikan aplikasi dan mengalokasikan ruang untuk program atau aplikasi yang diinstal di komputer.
+Keamanan data: Sistem operasi berperan melindungi data pengguna dari serangan siber.
+Manajemen drive/disk: Sistem operasi membantu mengelola drive komputer dan membagi disk.
+Kontrol perangkat: Sistem operasi memungkinkan pengguna untuk mengizinkan atau memblokir akses ke perangkat.
+Desain User Interface (UI): Memungkinkan pengguna untuk memasukkan dan menerima informasi atau disebut UI (antarmuka pengguna).
+
+
+# Jenis Sistem Operasi dan Contoh
+1. Stand Alone
+Sistem operasi stand alone adalah sistem operasi dengan fitur tertentu yang bisa digunakan untuk single atau multi user. 
+Sistem operasi stand alone merupakan sistem yang berdiri sendiri, pada komputer desktop atau perangkat portabel lainnya.
+Contoh:
+Microsoft Windows
+Microsoft Windows merupakan salah satu jenis sistem operasi yang digunakan pada komputer di seluruh dunia. Sistem operasi ini dibuat oleh Microsoft.
+Linux
+Sistem operasi Linux dibuat oleh programmer asal Finlandia bernama Linus Torvalds. Linux telah populer di kalangan programmer dan server perusahaan.
+MacOS
+Sistem operasi macOS dikembangkan oleh Apple. Semua komputer dan desktop Apple dan Macintosh dilengkapi dengan macOS versi terbaru, yang sebelumnya dikenal sebagai sistem macOS X.
+
+
+2. Sistem Operasi Jaringan
+Sistem operasi jaringan adalah sistem operasi yang berjalan di suatu perangkat khusus yang disebut server. Sistem operasi jaringan yang dipasang di server, dipakai untuk memberi pengguna kemampuan untuk mengelola data serta aplikasi.
+Sistem operasi ini memungkinkan pengguna dalam mengakses dan berbagi file dan perangkat. Kelebihan penggunaan sistem operasi ini yaitu servernya terpusat.
+Contoh sistem operasi jaringan:
+Linux.
+Unix.
+Microsoft Windows Server.
+macOS X.
+
+
+

@@ -1,0 +1,34 @@
+
+
+
+
+Sistem Operasi Server merupakan sistem operasi yang digunakan untuk 
+manajemen dan mengatur konfigurasi server dari perangkat – perangkat yang
+terhubung dengan komputer utama/ server pada suatu jaringan.
+
+# Fungsi
+- Melayani dan mengontrol sebagian besar komponen yang ada pada sistem jaringan
+- Membantu melayani berbagai permintaan yang berasal dari komputer workstation yang telah terhubung pada sistem jaringan.
+- Membantu mengontrol sistem hubungan komputer yang satu dengan komputer lainnya
+- Memberi pengguna kemampuan untuk mengakses dan mengelola server dalam GUI (Graphical User Interface) atau melalui CLI (Command Line Interface).
+- Membantu untuk mengeksekusi sebagian besar proses layanan server dari perintah sistem operasi sesuai dengan arsitektur server.
+- Membantu untuk mengkonfigurasi layanan dalam sistem server jaringan dengan cara yang canggih baik dalam hal konfigurasi hardware, software dan layanan jaringan.
+- Membantu untuk menginstal aplikasi instalasi perusahaan dan aplikasi web.
+- Menyediakan sebuah antarmuka terpusat yang dapat membantu pengguna, baik eksekutif dan administrator keamanan, menjalankan berbagai proses, termasuk proses administrasi umum.
+- Membantu administrasi dan juga memonitor komputer atau perangkat klien yang terhubung ke sistem jaringan dan juga ke sistem operasi untuk menjalankan sistem jaringan.
+
+
+# Jenis-jenis
+- Web Server
+Web server merupakan sistem server dimana perangkat lunak (software) dipasang pada server yang berfungsi untuk menyediakan
+layanan permintaan data dengan protocol Hypertext Transfer Protocol (HTTP) yang dapat diakses dengan menggunakan browser.
+- Mail Server
+Mail server merupakan perangkat lunak program yang mendistribusikan file atau informasi sebagai respon atas permintaan yang 
+dikirimkan via email.
+- FTP Server
+FTP Server merupakan server yang menjalankan software untuk memberikan layanan pertukaran file kepada perangkat – perangkat
+tertentu yang terhubung pada jaringan. Dalam server ini komputer server akan selalu siap memberikan layanan FTP apabila
+terdapat permintaan dari FTP client.
+- File Server
+File server merupakan salah satu server yang berfungsi untuk menampung sejumlah data yang dimiliki oleh client dari suatu
+sistem jaringan tempatnya terhubung.

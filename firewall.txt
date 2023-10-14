@@ -1,0 +1,24 @@
+
+Dalam komputasi, firewall adalah sistem keamanan jaringan yang memantau 
+dan mengontrol lalu lintas jaringan masuk dan keluar berdasarkan aturan 
+keamanan yang telah ditentukan.[1][2]  Firewall biasanya membuat penghalang
+antara jaringan tepercaya dan jaringan tidak tepercaya, seperti.
+
+
+# Fungsi
+- Melindungi data dari akses berbahaya.
+- Memblokir pesan yang mengganggu.
+- Memblokir konten/situs yang bwrbahaya.
+
+# Manfaat
+- Komputer lebih aman.
+- 
+
+# Jenis
+- Hardware firewall
+- Software firewall
+- Packet-filtering firewall
+- Proxy firewall
+- Cloud firewall
+
+

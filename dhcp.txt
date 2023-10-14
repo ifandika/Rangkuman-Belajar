@@ -1,0 +1,12 @@
+
+DHCP adalah sebuah protokol yang berfungsi untuk mendistribusikan 
+IP ke device yang terkoneksi pada sebuah jaringan. Pemberian IP
+ini dapat dilakukan secara manual maupun otomatis oleh adminstrator
+jaringan. Nah, pemberian IP secara otomatis ini membutuhkan fungsi yaitu DHCP.
+
+DHCP adalah singkatan dari Dynamic Host Configuration Protocol. DHCP adalah 
+protokol yang digunakan untuk distribusi IP Address pada jaringan komputer
+secara dinamis. Dengan menggunakan DHCP Anda dapat melakukan konfigurasi IP
+address pada setiap perangkat di jaringan komputer secara otomatis. Selain IP 
+Address, ada beberapa konfigurasi lainnya yang dapat didistribusikan melalui
+DHCP seperti default gateway, DNS server dan subnet mask

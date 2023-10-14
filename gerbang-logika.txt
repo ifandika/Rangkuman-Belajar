@@ -1,0 +1,13 @@
+
+Gerbang logika adalah perangkat ideal atau fisik yang menjalankan fungsi Boolean, 
+yaitu operasi logis yang dilakukan pada satu atau lebih masukan biner yang menghasilkan
+keluaran biner tunggal.
+
+# Jenis
+- AND
+- OR
+- NOT
+- NAND
+- NOR
+- XOR
+- XNOR
